@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71111&random=false&width=435&lines=%F0%9D%99%B7%F0%9D%99%B8+%F0%9D%9A%83%F0%9D%99%B7%F0%9D%99%B4%F0%9D%9A%81%F0%9D%99%B4+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0216F7&random=false&width=435&lines=%F0%9D%9A%81%F0%9D%99%B8%F0%9D%99%BC%F0%9D%99%BE%F0%9D%99%BD+%F0%9D%99%B0%F0%9D%99%B7%F0%9D%99%BC%F0%9D%99%B4%F0%9D%99%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=181AF7&random=false&width=435&lines=TAMIM+AHMED)](https://git.io/typing-svg)
 
 ## 𝚂𝙾𝙲𝙸𝙰𝙻 𝙻𝙸𝙽𝙺 :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tamimahamad.tamim.54) 
